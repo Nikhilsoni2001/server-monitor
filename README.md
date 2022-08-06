@@ -1,4 +1,4 @@
-# Server Manager -- Checks Server status
+# Server Monitor -- Checks Server status
 
 <img width="100%" src="/images/screenshot.PNG" />
 
